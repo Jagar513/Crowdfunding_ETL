@@ -1,4 +1,5 @@
 # Crowdfunding_ETL
+By Jitesh, Bansri, David and James
 
 ## Overview
 For this mini project, you will work with a partner to practice building an ETL (Extract, Transform, Load) pipeline using Python, Pandas, and either Python dictionary methods or regular expressions to extract and transform crowdfunding data. After transforming the data, you will create four CSV files, use the data to create an Entity Relationship Diagram (ERD) and a table schema, and finally upload the CSV file data into a Postgres database.
